@@ -58,18 +58,6 @@ lib/                      # External libraries
 
 ---
 
-## 🖼️ Application Preview
-
-| Login                                                              | Register                                                              | Main                                                              |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="assets/images/screenshots/login-frame.png" width="250"/> | <img src="assets/images/screenshots/register-frame.png" width="250"/> | <img src="assets/images/screenshots/main-frame.png" width="250"/> |
-
-| Add Transaction                                                              | History                                                                                 | Report                                                                       |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <img src="assets/images/screenshots/add-transaction-frame.png" width="250"/> | <img src="assets/images/screenshots/browse-transaction-history-frame.png" width="250"/> | <img src="assets/images/screenshots/generate-report-frame.png" width="250"/> |
-
----
-
 ## ⚡ How to Run
 
 1. Install **Java 8 or later**
