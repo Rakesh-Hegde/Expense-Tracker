@@ -1,6 +1,3 @@
-Perfect 👍 I’ll redesign it again with the **same clean style**, but this time I’ll **remove the license and author/contact details**.
-
-Here’s the updated version:
 
 ---
 
